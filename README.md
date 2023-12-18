@@ -1,1 +1,2 @@
-# LoGG_Presentation
+LoGG Presentation
+![Example GIF](asset/cover.jpeg)
